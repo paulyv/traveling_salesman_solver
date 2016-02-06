@@ -6,7 +6,7 @@ This is a visual example of a complete undirected weighted graph. The travelling
 
 ![alt tag](https://github.com/paulyv/traveling_salesman_solver/raw/master/example_complete_undirected_weighted_graph.gif)
 
-Below is a screenshot where I used my program to calculate the shortest routes between 15 largest cities in Finland.
+Below is a screenshot where I used my program to calculate the shortest round-trip between 15 largest cities in Finland and return back to the origin city.
 
 ![alt tag](https://github.com/paulyv/traveling_salesman_solver/raw/master/screenshot.png)
 
